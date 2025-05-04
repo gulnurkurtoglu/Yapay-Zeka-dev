@@ -332,3 +332,4 @@ for param in params:
         vector_size=param['vector_size']
     )
 print("\nTüm işlemler başarıyla tamamlandı!")
+
